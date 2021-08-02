@@ -3,7 +3,7 @@ Proyecto renta de vehículos
 
 La funcíon principal de este proyecto es gestionar el CRUD de la renta de vehículos, sin embargo tambien gestiona el CRUD de reserva de vehículos, de devolución de vehículos, de clientes, de vehículos y de las diferentes ciudades donde se puede implementar el proyecto.
 
-Primero se debe restaurar el archivo llamado BackUp_DBRentaVehiculos en SQL Server en el cual esta la base de datos implementada para este proyecto, luego se debe abrir el archivo llamado CON_WebProyectoFinalDesarrolloSoftware.xml y dentro de la etiqueta <SERVIDOR></SERVIDOR> escribir el nombre del servidor de SQL Server, luego copiar y pegar el archivo en la ruta C:\Program Files (x86)\IIS Express.
+Primero se debe restaurar el archivo llamado BackUp_DBRentaVehiculos en SQL Server en el cual esta la base de datos implementada para este proyecto, luego se debe abrir el archivo llamado CON_WebProyectoFinalDesarrolloSoftware.xml y dentro de la etiqueta (SERVIDOR) escribir el nombre del servidor de SQL Server, luego copiar y pegar el archivo en la ruta C:\Program Files (x86)\IIS Express.
 
 Todos los archivos .sln se abren con Visual Studio.
 
