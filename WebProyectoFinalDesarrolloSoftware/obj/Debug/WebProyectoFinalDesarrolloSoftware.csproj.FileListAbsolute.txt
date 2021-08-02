@@ -1,0 +1,157 @@
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.dll.config
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.pdb
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.exe
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.exe.config
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.rsp
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.exe
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.exe.config
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.rsp
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.AppContext.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Console.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.Compression.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Net.Http.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Net.Sockets.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.ValueTuple.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XPath.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.exe
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.exe.config
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.rsp
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\VBCSCompiler.exe
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Antlr3.Runtime.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Newtonsoft.Json.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\ProyectoFinalDesarrolloSoftware.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\System.Web.Optimization.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\WebGrease.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\libComunes.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\ProyectoFinalDesarrolloSoftware.pdb
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\System.Web.Optimization.xml
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Newtonsoft.Json.xml
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Antlr3.Runtime.pdb
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\libComunes.pdb
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\es\System.Web.Optimization.resources.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.csprojAssemblyReference.cache
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.csproj.CopyComplete
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.dll
+C:\Users\57300\Desktop\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.pdb
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.dll.config
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\WebProyectoFinalDesarrolloSoftware.pdb
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.exe
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.exe.config
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csc.rsp
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.exe
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.exe.config
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\csi.rsp
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.AppContext.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Console.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Globalization.Calendars.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.Compression.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.FileSystem.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Net.Http.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Net.Sockets.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.ValueTuple.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XPath.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.exe
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.exe.config
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\vbc.rsp
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\VBCSCompiler.exe
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Antlr3.Runtime.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\AspNet.ScriptManager.jQuery.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.Web.Infrastructure.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Newtonsoft.Json.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\ProyectoFinalDesarrolloSoftware.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\System.Web.Optimization.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\libComunes.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\ProyectoFinalDesarrolloSoftware.pdb
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\System.Web.Optimization.xml
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Newtonsoft.Json.xml
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Antlr3.Runtime.pdb
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\libComunes.pdb
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\es\System.Web.Optimization.resources.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.csprojAssemblyReference.cache
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.csproj.CoreCompileInputs.cache
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.csproj.CopyComplete
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.dll
+D:\SANTIAGO 98\Portafolio de Paginas Web Santiago Montoya Cano\WebProyectoFinalDesarrolloSoftware\obj\Debug\WebProyectoFinalDesarrolloSoftware.pdb

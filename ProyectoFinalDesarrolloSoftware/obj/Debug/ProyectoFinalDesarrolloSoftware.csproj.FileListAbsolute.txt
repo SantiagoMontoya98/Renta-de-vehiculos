@@ -1,0 +1,8 @@
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\bin\Debug\ProyectoFinalDesarrolloSoftware.dll
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\bin\Debug\ProyectoFinalDesarrolloSoftware.pdb
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\bin\Debug\libComunes.dll
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\bin\Debug\libComunes.pdb
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\obj\Debug\ProyectoFinalDesarrolloSoftware.csprojAssemblyReference.cache
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\obj\Debug\ProyectoFinalDesarrolloSoftware.csproj.CopyComplete
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\obj\Debug\ProyectoFinalDesarrolloSoftware.dll
+C:\Users\57300\Desktop\ProyectoFinalDesarrolloSoftware\obj\Debug\ProyectoFinalDesarrolloSoftware.pdb
